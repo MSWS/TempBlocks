@@ -1,0 +1,8 @@
+name: TempBlocks
+main: org.mswsplex.tempblocks.msws.TempBlocks
+version: 1.0
+description: Temporary placeable blocks
+commands:
+   tempblock:
+      usage: /<command>
+      description: Temp Blocks main command
